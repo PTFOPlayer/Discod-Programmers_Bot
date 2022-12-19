@@ -16,6 +16,7 @@ Repo telling about discord bot that runs  programs in different languages on rem
 ```
  [command
  
- pogram surrounded by tripple `
+ pogram surrounded by tripple ` on start and finish
+ 
  
 ```
