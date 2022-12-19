@@ -11,6 +11,7 @@ Repo telling about discord bot that runs  programs in different languages on rem
   * C++
   * Kotlin
   * Rust
+  * JavaScript
 
 ## Usage:
 ```
