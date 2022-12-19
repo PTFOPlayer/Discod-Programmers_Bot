@@ -11,3 +11,11 @@ Repo telling about discord bot that runs  programs in different languages on rem
   * C++
   * Kotlin
   * Rust
+
+## Usage:
+```
+ [command
+ ```language
+  pogram
+ ```
+```
