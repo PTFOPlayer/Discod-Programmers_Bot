@@ -15,7 +15,7 @@ Repo telling about discord bot that runs  programs in different languages on rem
 ## Usage:
 ```
  [command
- ```language
-  pogram
- ```
+ 
+ pogram surrounded by tripple `
+ 
 ```
