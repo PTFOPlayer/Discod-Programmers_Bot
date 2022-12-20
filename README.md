@@ -4,14 +4,14 @@ Repo telling about discord bot that runs  programs in different languages on rem
 ## Supported languages
   * Python
   * C
+  * JavaScript
   * Java (limited)
+  * C# (limited, and will be reworked)
   
 ## Languages that will be supported
-  * C#
   * C++
   * Kotlin
   * Rust
-  * JavaScript
 
 ## Usage:
 ```
