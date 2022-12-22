@@ -7,12 +7,10 @@ Repo telling about discord bot that runs  programs in different languages on rem
   * JavaScript
   * C++
   * Rust
-  * Java (limited)
-  * C# (limited, and will be reworked)
+  * Java (partialy working)
+  * C# (limited, and will be reworked, planning on moving from mono compiler to dotnet)
   
 ## Languages that will be supported
-  * C++
-  * Rust
   * Kotlin
 
 ## Usage:
