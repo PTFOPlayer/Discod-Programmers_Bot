@@ -20,3 +20,8 @@ Repo telling about discord bot that runs  programs in different languages on rem
  pogram surrounded by tripple ` on start and finish
 ```
 note: tripple ` shall not be on the same lines as progam lines, those lines will be removed
+
+# TODO
+ * Statistic system
+ * Help command
+ * Extended execution time for users with premium keys
