@@ -1,4 +1,4 @@
-# Programmers_Bot-Discord-
+# Discord-Programmers_Bot
 Repo telling about discord bot that runs  programs in different languages on remote server
 
 ## Supported languages
