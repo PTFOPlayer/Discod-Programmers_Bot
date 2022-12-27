@@ -2,7 +2,7 @@
 Repo telling about discord bot that runs  programs in different languages on remote server
 
 ## link
-  * [https://discord.com/api/oauth2/authorize?client_id=934391097017376778&permissions=8&scope=applications.commands%20bot](programmers_bot)
+  * [https://discord.com/api/oauth2/authorize?client_id=934391097017376778&permissions=8&scope=bot](programmers_bot)
 
 ## Supported languages
   * Python
