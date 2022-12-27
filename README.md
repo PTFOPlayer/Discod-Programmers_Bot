@@ -23,5 +23,7 @@ note: tripple ` shall not be on the same lines as progam lines, those lines will
 
 # TODO
  * Statistic system
- * Help command
- * Extended execution time for users with premium keys
+ * Help command / Usage command
+ * Extended maximum execution time for users with premium keys
+ * Reduced maximum execution time for bots (i will not limit bots from using this bot)
+ * Limit mining exploits
