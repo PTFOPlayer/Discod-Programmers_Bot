@@ -19,8 +19,6 @@ Repo telling about discord bot that runs  programs in different languages on rem
 ## Usage:
 ```
  >command <parameters>
- 
- pogram surrounded by tripple ` on start and finish
 ```
 note: tripple ` shall not be on the same lines as progam lines, those lines will be removed
 
