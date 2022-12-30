@@ -26,5 +26,6 @@ note: tripple ` shall not be on the same lines as progam lines, those lines will
  * Statistic system
  * Help command / Usage command
  * Extended maximum execution time for users with premium keys
- * Reduced maximum execution time for bots (i will not limit bots from using this bot)
+ * Reduced maximum execution time for bots (i will not limit bots from using this bot) (kidding i limitted it)
  * Limit mining exploits
+ * Limit spam exploits
