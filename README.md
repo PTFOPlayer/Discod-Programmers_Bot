@@ -23,9 +23,9 @@ Repo telling about discord bot that runs  programs in different languages on rem
 note: tripple ` shall not be on the same lines as progam lines, those lines will be removed
 
 # TODO
- * Statistic system
- * Help command / Usage command
- * Extended maximum execution time for users with premium keys
- * Reduced maximum execution time for bots (i will not limit bots from using this bot) (kidding i limitted it)
- * Limit mining exploits
- * Limit spam exploits
+ * Statistic system [x]
+ * Help command / Usage command [x]
+ * Extended maximum execution time for users with premium keys 
+ * Limit bots [x]
+ * Limit mining exploits [x]
+ * Limit spam exploits [x]
