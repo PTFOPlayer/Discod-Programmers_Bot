@@ -17,9 +17,25 @@ Repo telling about discord bot that runs  programs in different languages on rem
   * Kotlin
 
 ## Usage:
+  ### Casual commands:
 ```
  >command <parameters>
 ```
+  ### Executing program:
+```
+>exec <language> <parameter_if_necessary>
+```​
+ <program>
+```​
+```
+#### Available languages:
+ * python
+ * C
+ * C++
+ * C# / CS
+ * JS
+ * Java
+ * Rust
 note: tripple ` shall not be on the same lines as progam lines, those lines will be removed
 
 # TODO
