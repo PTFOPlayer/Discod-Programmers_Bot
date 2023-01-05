@@ -28,20 +28,30 @@ Repo telling about discord bot that runs  programs in different languages on rem
  <program>
 ```​
 ```
-#### Available languages:
- * python
- * C
- * C++
- * C# / CS
- * JS
- * Java
- * Rust
+>Available languages:
+ * -python
+ * -C
+ * -C++
+ * -C# / -CS
+ * -JS
+ * -Java
+ * -Rust
+>Parameters:
+ * -f: input from atached file
+ * -i: input as stdio from arguments after this parameter
+ * -fi: combination of two above
 note: tripple ` shall not be on the same lines as progam lines, those lines will be removed
 
 # TODO
+ * Commands list
+ * Betterr help command
+ * Extended maximum execution time for users with premium keys 
+ * Larger Memory and more cpu power for users with premium keys
+(note: premium will not give any other advantages than exec time and performance, all functionality whill remain same for premium and non premium users)
+
+# Done 
  * Statistic system [x]
  * Help command / Usage command [x]
- * Extended maximum execution time for users with premium keys 
  * Limit bots [x]
  * Limit mining exploits [x]
  * Limit spam exploits [x]
