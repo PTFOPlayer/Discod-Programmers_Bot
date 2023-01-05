@@ -15,6 +15,7 @@ Repo telling about discord bot that runs  programs in different languages on rem
   
 ## Languages that will be supported
   * Kotlin
+  * Go
 
 ## Usage:
   ### Casual commands:
@@ -45,13 +46,14 @@ note: tripple ` shall not be on the same lines as progam lines, those lines will
 # TODO
  * Commands list
  * Betterr help command
+ * More languages (ex. Kotlin and Go)
  * Extended maximum execution time for users with premium keys 
  * Larger Memory and more cpu power for users with premium keys
 (note: premium will not give any other advantages than exec time and performance, all functionality whill remain same for premium and non premium users)
 
 # Done 
- * Statistic system [x]
- * Help command / Usage command [x]
- * Limit bots [x]
- * Limit mining exploits [x]
- * Limit spam exploits [x]
+ * Statistic system
+ * Help command / Usage command
+ * Limit bots
+ * Limit mining exploits
+ * Limit spam exploits
