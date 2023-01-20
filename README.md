@@ -41,6 +41,7 @@ Repo telling about discord bot that runs  programs in different languages on rem
  * -f: input from atached file
  * -i: input as stdio from arguments after this parameter
  * -fi: combination of two above
+ 
 note: tripple ` shall not be on the same lines as progam lines, those lines will be removed
 
 # TODO
@@ -49,6 +50,7 @@ note: tripple ` shall not be on the same lines as progam lines, those lines will
  * More languages (ex. Kotlin and Go)
  * Extended maximum execution time for users with premium keys 
  * Larger Memory and more cpu power for users with premium keys
+ 
 (note: premium will not give any other advantages than exec time and performance, all functionality whill remain same for premium and non premium users)
 
 # Done 
